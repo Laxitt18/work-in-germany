@@ -83,6 +83,19 @@ location_normalize:
 # Job category classification (by title keywords)
 # --------------------------------------------------------------------------
 categories:
+  Software Tester:
+    icon: "💻💻"
+    keywords :
+      - QA Engineer
+      - Software Test Engineer
+      - Test Automation Engineer
+      - QA Automation Engineer
+      - SDET
+      - Mobile QA Engineer
+      - Mobile Test Engineer
+      - Web QA Engineer
+      - AI Test Engineer
+      - AI Automation Tester
   Software Engineering:
     icon: "💻"
     keywords:
@@ -179,21 +192,6 @@ categories:
       - devsecops
       - kubernetes
       - linux administrator
-  Product & Management:
-    icon: "📋"
-    keywords:
-      - product manager
-      - produktmanager
-      - project manager
-      - projektmanager
-      - program manager
-      - scrum master
-      - agile coach
-      - product owner
-      - technical program
-      - it manager
-      - teamleiter it
-      - delivery manager
   Design & UX:
     icon: "🎨"
     keywords:
@@ -207,65 +205,6 @@ categories:
       - interaction designer
       - grafik designer
       - webdesigner
-  Business & Finance:
-    icon: "💼"
-    keywords:
-      - business analyst
-      - unternehmensberater
-      - consultant
-      - berater
-      - finance
-      - finanz
-      - accounting
-      - buchhalter
-      - controller
-      - controlling
-      - wirtschaftsprüfer
-      - steuerberater
-      - investment
-      - risk analyst
-      - compliance
-  Marketing & Sales:
-    icon: "📢"
-    keywords:
-      - marketing manager
-      - online marketing
-      - digital marketing
-      - content manager
-      - seo
-      - sem
-      - social media
-      - sales manager
-      - vertrieb
-      - account manager
-      - business development
-      - customer success
-      - key account
-      - growth manager
-  HR & Recruiting:
-    icon: "👥"
-    keywords:
-      - hr manager
-      - personalreferent
-      - recruiter
-      - talent acquisition
-      - people operations
-      - people partner
-      - personalberater
-      - human resources
-  Research & Science:
-    icon: "🔬"
-    keywords:
-      - research engineer
-      - forschungsingenieur
-      - wissenschaftlicher mitarbeiter
-      - research scientist
-      - postdoc
-      - phd
-      - doktorand
-      - r&d engineer
-      - laboringenieur
-      - wissenschaftliche hilfskraft
   Werkstudent & Internship:
     icon: "🎓"
     keywords:
@@ -284,23 +223,7 @@ categories:
       - bachelor thesis
       - master thesis
       - diplomarbeit
-  Trainee & Ausbildung:
-    icon: "🎒"
-    keywords:
-      - trainee
-      - ausbildung
-      - azubi
-      - auszubildende
-      - duales studium
-      - dual student
-      - berufsausbildung
-      - graduate program
-      - rotational program
-      - management trainee
-      - junior program
-      - berufseinstieg
-      - berufseinsteiger
-      - volontariat
+
   Hardware Engineering:
     icon: "🔧"
     keywords:
