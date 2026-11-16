@@ -29,19 +29,8 @@
 
 🎨 [Design & UX](#-design--ux) (740)
 
-💼 [Business & Finance](#-business--finance) (7153)
-
-📢 [Marketing & Sales](#-marketing--sales) (5825)
-
-👥 [HR & Recruiting](#-hr--recruiting) (274)
-
-🔬 [Research & Science](#-research--science) (555)
-
 🎓 [Werkstudent & Internship](#-werkstudent--internship) (9176)
 
-🎒 [Trainee & Ausbildung](#-trainee--ausbildung) (3301)
-
-🔧 [Hardware Engineering](#-hardware-engineering) (55)
 
 💼 [Other](#-other) (14583)
 
