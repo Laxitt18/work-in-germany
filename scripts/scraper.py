@@ -426,19 +426,12 @@ def job_row(j: dict) -> str:
 def generate_readme(jobs: list[dict], stats: dict, config: dict):
     """Generate the full README.md from scratch."""
     cats_order = [
+        "Software tester"
         "Software Engineering",
         "Data Science & ML",
         "Data Engineering",
-        "Infrastructure & SRE",
-        "Product & Management",
-        "Design & UX",
-        "Business & Finance",
-        "Marketing & Sales",
-        "HR & Recruiting",
-        "Research & Science",
+        "Design & UX",,
         "Werkstudent & Internship",
-        "Trainee & Ausbildung",
-        "Hardware Engineering",
         "Other",
     ]
 
