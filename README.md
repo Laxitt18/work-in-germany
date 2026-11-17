@@ -1,12 +1,12 @@
 # 🇩🇪 Work in Germany — Automated Job Board
 
-![Jobs](https://img.shields.io/badge/jobs-53901-blue)
+![Jobs](https://img.shields.io/badge/jobs-53951-blue)
 ![Visa Friendly](https://img.shields.io/badge/visa%20friendly-1751-green)
 ![English OK](https://img.shields.io/badge/english%20OK-969-orange)
-![Companies](https://img.shields.io/badge/companies-16359-purple)
+![Companies](https://img.shields.io/badge/companies-16370-purple)
 ![Updated](https://img.shields.io/badge/updated-every%206%20hours-success)
 
-> **Fully automated** list of tech jobs in Germany, scraped from **16359 company career pages** and updated every 6 hours.
+> **Fully automated** list of tech jobs in Germany, scraped from **16370 company career pages** and updated every 6 hours.
 
 > 🔄 Unlike manual lists, this repo uses **100+ company APIs** (Greenhouse, Lever) and updates automatically via GitHub Actions.
 > Every listing is tagged with language requirements and visa sponsorship status.
@@ -17,17 +17,19 @@
 
 ## 📂 Browse Jobs by Category
 
-💼 [Software testerSoftware Engineering](#-software-testersoftware-engineering) (0)
+💼 [Software tester](#-software-tester) (0)
 
-🤖 [Data Science & ML](#-data-science--ml) (1954)
+💻 [Software Engineering](#-software-engineering) (5042)
 
-📊 [Data Engineering](#-data-engineering) (879)
+🤖 [Data Science & ML](#-data-science--ml) (1955)
+
+📊 [Data Engineering](#-data-engineering) (881)
 
 🎨 [Design & UX](#-design--ux) (748)
 
-🎓 [Werkstudent & Internship](#-werkstudent--internship) (9232)
+🎓 [Werkstudent & Internship](#-werkstudent--internship) (9245)
 
-💼 [Other](#-other) (14869)
+💼 [Other](#-other) (14899)
 
 ---
 
@@ -55,7 +57,7 @@
 
 ---
 
-## 💼 Software testerSoftware Engineering
+## 💼 Software tester
 
 [Back to top](#-work-in-germany--automated-job-board)
 
@@ -63,11 +65,70 @@
 |---------|------|----------|--------|-------|
 | *No jobs currently listed — check back soon!* | | | | | | |
 
+## 💻 Software Engineering
+
+[Back to top](#-work-in-germany--automated-job-board)
+
+> Showing 50 of 5042 jobs. See all in [`data/jobs.json`](data/jobs.json).
+
+| Company | Role | Location | Posted | Apply |
+|---------|------|----------|--------|-------|
+| Skyhigh Security | Software Engineer | Paderborn, NW | Today | [Apply](https://de.indeed.com/viewjob?jk=f0223f2b09027dca) |
+| InNuce Solutions GmbH | Software Developer Frontend (m/w/d) | Hamburg, Hamburg | Today | [Apply](https://www.linkedin.com/jobs/view/4490970907) |
+| Deloitte | Senior Platform Engineer AI & Integration (m/w/d) | Hamburg, HH | Today | [Apply](https://de.indeed.com/viewjob?jk=af61d8ba6b644d1d) |
+| 🌍 Wolt | Senior Software Engineer, Operations Foundations | Berlin | Today | [Apply](https://job-boards.greenhouse.io/wolt/jobs/8281232) |
+| data experts gmbh | Software Engineer (m/w/d) | Berlin, BE | Today | [Apply](https://de.indeed.com/viewjob?jk=bcfbbc2555505e8b) |
+| dm-drogerie markt | Senior Software Engineer - Payment & AI (w/m/d) | Karlsruhe, BW | Today | [Apply](https://de.indeed.com/viewjob?jk=527fb6208f89234a) |
+| Mesalvo GmbH | Software Engineer - Admin & Billing (w/m/d) | Bochum, NW | Today | [Apply](https://de.indeed.com/viewjob?jk=2591bf259dd0f2ef) |
+| Hellmann Worldwide Logistics SE ... | Senior Software Backend Engineer (w/m/d) | Bremen, HB | Today | [Apply](https://de.indeed.com/viewjob?jk=9b02787079d42a50) |
+| Jacob Elektronik GmbH | (Senior) Software Developer Backend (m/w/d) | Karlsruhe, Baden-Württemberg | Today | [Apply](https://www.linkedin.com/jobs/view/4490444750) |
+| Axians Germany | Softwareentwickler C#/.NET & Angular (w/m/d) | Sindelfingen, Baden-Württem... | Today | [Apply](https://www.linkedin.com/jobs/view/4490460061) |
+| Hivebuy | Senior Full-Stack Engineer (Python/Django + Vue.js) | Berlin, Berlin | Today | [Apply](https://www.linkedin.com/jobs/view/4490462279) |
+| Haystack | Senior Software Engineer | Berlin Metropolitan Area | Today | [Apply](https://www.linkedin.com/jobs/view/4491111939) |
+| MCA Germany | Softwareentwickler C++/Qt (m/w/d) | Bremen, Bremen | Today | [Apply](https://www.linkedin.com/jobs/view/4491548533) |
+| STAR COOPERATION GmbH | Senior AI Software Developer – Deep Learning / Image Processing (m/... | Böblingen, Baden-Württemberg | Today | [Apply](https://www.linkedin.com/jobs/view/4490456280) |
+| IFS | Principal Platform Engineer — Authentication & Identity Engineering | Düsseldorf, NW | Today | [Apply](https://de.indeed.com/viewjob?jk=a4d957954cb899df) |
+| Hays | Senior Cloud Platform Engineer | Hamburg | Today | [Apply](https://www.linkedin.com/jobs/view/4491562607) |
+| Spilberg | Software Engineer DevOps (m/w/d) in Köln | Cologne, North Rhine-Westph... | Today | [Apply](https://www.linkedin.com/jobs/view/4491151416) |
+| Edeloptics GmbH | Backend Developer/ Entwickler (m/w/d) | Hamburg, HH | Today | [Apply](https://de.indeed.com/viewjob?jk=2ab246f29d134b1c) |
+| adesso SE | Senior CMS Full Stack Developer Storyblok (all genders) | Berlin-Kreuzberg, BE | Today | [Apply](https://de.indeed.com/viewjob?jk=63834b5841ca1465) |
+| TaskVerse | Software Developer | Germany | Today | [Apply](https://www.linkedin.com/jobs/view/4490413977) |
+| TaskVerse | Frontend Developer | Germany | Today | [Apply](https://www.linkedin.com/jobs/view/4490421448) |
+| lekker Energie GmbH | Backend-Softwareentwickler Python (m/w/d) | Berlin, BE | Today | [Apply](https://de.indeed.com/viewjob?jk=9a47b024e7131769) |
+| wakacje.pl | Senior PHP Software Engineer | Home Office | Today | [Apply](https://de.indeed.com/viewjob?jk=90fa3fcd33cddabf) |
+| Hellmann Worldwide Logistics SE ... | Senior Software Backend Engineer (w/m/d) | Hamburg, HH | Today | [Apply](https://de.indeed.com/viewjob?jk=dba49543f0133091) |
+| Remira GmbH | Software Developer C# / Cloud Native (w/m/d) | Dortmund, NW | Today | [Apply](https://de.indeed.com/viewjob?jk=bd7619d3b338e981) |
+| HMMH | Java Developer | SAP Commerce Cloud (m/w/d) | Home Office | Today | [Apply](https://de.indeed.com/viewjob?jk=8a55c65e3272f7f3) |
+| lekker Energie GmbH | Backend-Softwareentwickler Python (m/w/d) | Berlin | Today | [Apply](https://www.linkedin.com/jobs/view/4490457182) |
+| eClear | borderfree | Java Backend Developer (m/f/d) | Build the Future of Cross-Border C... | Berlin, Berlin | Today | [Apply](https://www.linkedin.com/jobs/view/4490447512) |
+| Comply365 | Senior Backend Engineer (m/f/d) | Kiel, Schleswig-Holstein | Today | [Apply](https://www.linkedin.com/jobs/view/4490451361) |
+| TaskVerse | PHP Developer | Germany | Today | [Apply](https://www.linkedin.com/jobs/view/4490432090) |
+| ai-coustics | Platform Engineer (AWS) | Berlin, Berlin | Today | [Apply](https://www.linkedin.com/jobs/view/4490433531) |
+| Latchform | Test Engineer | Munich, Bavaria | Today | [Apply](https://www.linkedin.com/jobs/view/4490198429) |
+| Bookwire Gesellschaft zum Vertri... | Software Engineer – AI-Augmented Development / Product Engineer (m/... | Dortmund, NW | Today | [Apply](https://de.indeed.com/viewjob?jk=22efba7e871687f3) |
+| Predict42 GmbH | Trainee Full Stack Mobile Engineer (iOS & Android) (m/f/d) | Mainz, RP | Today | [Apply](https://de.indeed.com/viewjob?jk=420c387202a86427) |
+| Jobgether | Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu | Germany | Today | [Apply](https://www.linkedin.com/jobs/view/4490198936) |
+| Next Ventures | Software Developer C++ – Industrial Automation & Real-Time Systems ... | Gießen, Hesse | Today | [Apply](https://www.linkedin.com/jobs/view/4490416726) |
+| TaskVerse | Web Developer | Germany | Today | [Apply](https://www.linkedin.com/jobs/view/4490431204) |
+| Justus-Liebig-Universität Gießen | Research Software Engineer (m/w/d) | Gießen, HE | Today | [Apply](https://de.indeed.com/viewjob?jk=a8b6bb1c8cb691bc) |
+| Salesforce | Software Engineer, Database Systems — Database.com / Hyper | Munich, Bavaria | Today | [Apply](https://www.linkedin.com/jobs/view/4491580452) |
+| Ratiodata SE | System Engineer (m/wd) Application Engineer Reporting und Faktura | Karlsruhe, BW | Today | [Apply](https://de.indeed.com/viewjob?jk=e43734fb6bb8f4c2) |
+| Myra Security GmbH | Security Platform Engineer (m/w/d) | Munich, Bavaria | Today | [Apply](https://www.linkedin.com/jobs/view/4490455917) |
+| NCP engineering GmbH | Software Quality & Test Engineer (m/w/d) | Nuremberg, Bavaria | Today | [Apply](https://www.linkedin.com/jobs/view/4491583108) |
+| FOURENERGY GmbH | Fullstack Consultant | Berlin, BE | Today | [Apply](https://de.indeed.com/viewjob?jk=8417fe6b10530a7c) |
+| Texas Instruments Europe | Product/Test Engineering Intern m/f/d | Freising, Bavaria | Today | [Apply](https://www.linkedin.com/jobs/view/4491193340) |
+| NXP Semiconductors | Principal Engineer – AI-Enabled Embedded Software / GenAI Orchestra... | Munich, Bavaria | Today | [Apply](https://www.linkedin.com/jobs/view/4491169926) |
+| Taktile | Backend Engineer - Team Optimize | Berlin, BE | Today | [Apply](https://de.indeed.com/viewjob?jk=08f368ab6b5daa00) |
+| Justus-Liebig-Universität Gießen | Research Software Engineer (m/w/d) | Gießen, HE | Today | [Apply](https://de.indeed.com/viewjob?jk=946dc37070422736) |
+| Cresta | Senior Software Engineer, Backend (Berlin) | Berlin, Berlin | Today | [Apply](https://www.linkedin.com/jobs/view/4491589461) |
+| Taktile | Backend Engineer - Team Optimize | Berlin, Berlin | Today | [Apply](https://www.linkedin.com/jobs/view/4491587617) |
+| Riverty | Senior Software Engineer (Consumer Service) (m/f/d) | Berlin, Berlin | Today | [Apply](https://www.linkedin.com/jobs/view/4491598361) |
+
 ## 🤖 Data Science & ML
 
 [Back to top](#-work-in-germany--automated-job-board)
 
-> Showing 50 of 1954 jobs. See all in [`data/jobs.json`](data/jobs.json).
+> Showing 50 of 1955 jobs. See all in [`data/jobs.json`](data/jobs.json).
 
 | Company | Role | Location | Posted | Apply |
 |---------|------|----------|--------|-------|
@@ -102,6 +163,7 @@
 | Lufinity AI | Junior Applied AI Engineer | Munich, Bavaria | Today | [Apply](https://www.linkedin.com/jobs/view/4491578463) |
 | ABOUT YOU SE & Co. KG | Data Analyst - Marketing Data Analytics (all genders) | Hamburg, HH | Today | [Apply](https://de.indeed.com/viewjob?jk=91f4da434cec5b6d) |
 | Universität Siegen | Wissenschaftliche/r Mitarbeiter/in - Computer Vision | Siegen, NW | Today | [Apply](https://de.indeed.com/viewjob?jk=5db816e5d404819c) |
+| Nachrichtentechnik, Heinrich-Her... | Werkstudent*in VIT-IMC / Computer Vision / 3D-semantische Analyse /... | Berlin, BE | Today | [Apply](https://de.indeed.com/viewjob?jk=82f183cf59ad4112) |
 | IT Baden-Württemberg (BITBW) | KI Data Scientist (w/m/d), 16231-KI Hub | Stuttgart, BW | 1 day ago | [Apply](https://de.indeed.com/viewjob?jk=8666b5a72c066ab2) |
 | Vattenfall | Senior Data Scientist & ML Analyst (m/w/d) | Hamburg, HH | 1 day ago | [Apply](https://de.indeed.com/viewjob?jk=3e209639cf940bec) |
 | Jobgether | Senior ML Engineer | Germany | 1 day ago | [Apply](https://www.linkedin.com/jobs/view/4490274430) |
@@ -120,13 +182,12 @@
 | Vattenfall | Senior Data Scientist & ML Analyst (m/w/d) | Berlin, Berlin | 1 day ago | [Apply](https://www.linkedin.com/jobs/view/4489746730) |
 | Vattenfall | Senior Data Scientist & ML Analyst (m/w/d) | Hamburg, Hamburg | 1 day ago | [Apply](https://www.linkedin.com/jobs/view/4489755400) |
 | Findr | Data Scientist - Statistics & AI - Hybrid - Frankfurt - €75,000-90,000 | Frankfurt, Hesse | 1 day ago | [Apply](https://www.linkedin.com/jobs/view/4489794216) |
-| trivago | Data Scientist - Marketing | Düsseldorf, North Rhine-Wes... | 1 day ago | [Apply](https://www.linkedin.com/jobs/view/4489793366) |
 
 ## 📊 Data Engineering
 
 [Back to top](#-work-in-germany--automated-job-board)
 
-> Showing 50 of 879 jobs. See all in [`data/jobs.json`](data/jobs.json).
+> Showing 50 of 881 jobs. See all in [`data/jobs.json`](data/jobs.json).
 
 | Company | Role | Location | Posted | Apply |
 |---------|------|----------|--------|-------|
@@ -138,6 +199,7 @@
 | INFOMOTION GmbH | Senior Data Engineer (m/w/d) / Schwerpunkt Scala & Spark | Frankfurt, Hesse | Today | [Apply](https://www.linkedin.com/jobs/view/4491576070) |
 | Annapurna | Senior Data Engineer | Greater Munich Metropolitan... | Today | [Apply](https://www.linkedin.com/jobs/view/4480974944) |
 | Beiersdorf | Lead Data Engineer (all genders) | Hamburg, Hamburg | Today | [Apply](https://www.linkedin.com/jobs/view/4490470713) |
+| 🏭 Trivago | Working Student - Content Data Engineer | Düsseldorf | Today | [Apply](https://careers.trivago.com/apply/8878864002.?gh_jid=8878864002) |
 | 🚀 N26 | Site Reliability Engineer - Data Platform | Barcelona, Berlin | 1 day ago | [Apply](https://n26.com/en-eu/careers/positions/8378357?gh_jid=8378357) |
 | Grainset Data | Associate Data Engineer | Hamburg, Hamburg | 1 day ago | [Apply](https://www.linkedin.com/jobs/view/4490279555) |
 | Grainset Data | Junior Data Engineer | Hamburg, Hamburg | 1 day ago | [Apply](https://www.linkedin.com/jobs/view/4490277451) |
@@ -145,7 +207,6 @@
 | adesso SE | Senior Data Engineer - Data Integration & Analytics (all genders) | Münster, North Rhine-Westph... | 1 day ago | [Apply](https://www.linkedin.com/jobs/view/4429634746) |
 | Swiss Life Deutschland | Senior Cloud Data Engineer (m/w/d) | Hanover, Lower Saxony | 1 day ago | [Apply](https://www.linkedin.com/jobs/view/4490282775) |
 | Accurids | (Junior) Data Engineer | Knowledge Graphs & Pharma Data (f/m/d) | Cologne, North Rhine-Westph... | 1 day ago | [Apply](https://www.linkedin.com/jobs/view/4489745117) |
-| 🏭 Trivago | Working Student - Content Data Engineer | Düsseldorf | 1 day ago | [Apply](https://careers.trivago.com/apply/8878864002.?gh_jid=8878864002) |
 | 🚀 N26 | Engineering Manager - Data Platform | Berlin | 1 day ago | [Apply](https://n26.com/en-eu/careers/positions/7818361?gh_jid=7818361) |
 | FRANK Immobilien und Lebensforma... | Data Engineer (m/w/d) – Digital Team | Hamburg, HH | 1 day ago | [Apply](https://de.indeed.com/viewjob?jk=f91d623c64b9b66b) |
 | AeroVect | Senior Data Engineer | Berlin, BE | 1 day ago | [Apply](https://de.indeed.com/viewjob?jk=d617fed9afacfbe9) |
@@ -160,6 +221,8 @@
 | instagrid | Customer Success Manager – Hessen, NRW, Thüringen & Nordbayern (f/m/d) | HE | 1 day ago | [Apply](https://de.indeed.com/viewjob?jk=d78dcaa13dd8ed72) |
 | Airbus | Working Student: Design Operations & 3D Data Architecture (d/f/m) | Finkenwerder, HH | 1 day ago | [Apply](https://de.indeed.com/viewjob?jk=89f023aa6b9226d8) |
 | Polarstern Experts | Senior Data Engineer (m/w/d) | Cologne, NW | 1 day ago | [Apply](https://de.indeed.com/viewjob?jk=21ba2f3aef5e36ac) |
+| AeroVect | Senior Data Engineer | Frankfurt, HE | 1 day ago | [Apply](https://de.indeed.com/viewjob?jk=ec7f525d987403eb) |
+| AeroVect | Senior Data Engineer | Munich, BY | 1 day ago | [Apply](https://de.indeed.com/viewjob?jk=0020408249f0cf34) |
 | adesso SE | Senior Data Engineer - Data Integration & Analytics (all genders) | Düsseldorf, North Rhine-Wes... | 2 days ago | [Apply](https://www.linkedin.com/jobs/view/4429625873) |
 | TaskVerse | Data Engineer | Germany | 2 days ago | [Apply](https://www.linkedin.com/jobs/view/4491227577) |
 | ALDI Nord Group | Data Engineer – Marketing & Loyalty Analytics (m/w/d) | Essen, North Rhine-Westphalia | 2 days ago | [Apply](https://www.linkedin.com/jobs/view/4490234442) |
@@ -178,8 +241,6 @@
 | Cegeka | Senior Data Engineer* – Data Warehouse & Migration #11325 | Munich, BY | 4 days ago | [Apply](https://de.indeed.com/viewjob?jk=8b40b30eb69b183d) |
 | Visable | Senior Data Engineer (m/w/d)- DE | Hamburg, Hamburg | 4 days ago | [Apply](https://www.linkedin.com/jobs/view/4489811072) |
 | SUND GmbH + Co. KG | Data Engineer (m/w/d) – Datenintegration & BI | Hamburg, Hamburg | 4 days ago | [Apply](https://www.linkedin.com/jobs/view/4489878891) |
-| Talon.One | Data Engineer | Berlin, Berlin | 4 days ago | [Apply](https://www.linkedin.com/jobs/view/4490727475) |
-| Visable GmbH | Senior Data Engineer (m/f/d) | Hamburg, HH | 5 days ago | [Apply](https://de.indeed.com/viewjob?jk=20017f034ab7cd3e) |
 
 ## 🎨 Design & UX
 
@@ -244,7 +305,7 @@
 
 [Back to top](#-work-in-germany--automated-job-board)
 
-> Showing 50 of 9232 jobs. See all in [`data/jobs.json`](data/jobs.json).
+> Showing 50 of 9245 jobs. See all in [`data/jobs.json`](data/jobs.json).
 
 | Company | Role | Location | Posted | Apply |
 |---------|------|----------|--------|-------|
@@ -303,7 +364,7 @@
 
 [Back to top](#-work-in-germany--automated-job-board)
 
-> Showing 50 of 14869 jobs. See all in [`data/jobs.json`](data/jobs.json).
+> Showing 50 of 14899 jobs. See all in [`data/jobs.json`](data/jobs.json).
 
 | Company | Role | Location | Posted | Apply |
 |---------|------|----------|--------|-------|
@@ -360,4 +421,4 @@
 
 ---
 
-*Last updated: 2026-11-17 18:03 UTC • Total: 53901 jobs across 16359 companies*
+*Last updated: 2026-11-17 18:33 UTC • Total: 53951 jobs across 16370 companies*
