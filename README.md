@@ -1,12 +1,12 @@
 # 🇩🇪 Work in Germany — Automated Job Board
 
-![Jobs](https://img.shields.io/badge/jobs-53749-blue)
-![Visa Friendly](https://img.shields.io/badge/visa%20friendly-1750-green)
-![English OK](https://img.shields.io/badge/english%20OK-964-orange)
-![Companies](https://img.shields.io/badge/companies-16325-purple)
+![Jobs](https://img.shields.io/badge/jobs-53901-blue)
+![Visa Friendly](https://img.shields.io/badge/visa%20friendly-1751-green)
+![English OK](https://img.shields.io/badge/english%20OK-969-orange)
+![Companies](https://img.shields.io/badge/companies-16359-purple)
 ![Updated](https://img.shields.io/badge/updated-every%206%20hours-success)
 
-> **Fully automated** list of tech jobs in Germany, scraped from **16325 company career pages** and updated every 6 hours.
+> **Fully automated** list of tech jobs in Germany, scraped from **16359 company career pages** and updated every 6 hours.
 
 > 🔄 Unlike manual lists, this repo uses **100+ company APIs** (Greenhouse, Lever) and updates automatically via GitHub Actions.
 > Every listing is tagged with language requirements and visa sponsorship status.
@@ -19,15 +19,15 @@
 
 💼 [Software testerSoftware Engineering](#-software-testersoftware-engineering) (0)
 
-🤖 [Data Science & ML](#-data-science--ml) (1951)
+🤖 [Data Science & ML](#-data-science--ml) (1954)
 
-📊 [Data Engineering](#-data-engineering) (878)
+📊 [Data Engineering](#-data-engineering) (879)
 
-🎨 [Design & UX](#-design--ux) (745)
+🎨 [Design & UX](#-design--ux) (748)
 
-🎓 [Werkstudent & Internship](#-werkstudent--internship) (9183)
+🎓 [Werkstudent & Internship](#-werkstudent--internship) (9232)
 
-💼 [Other](#-other) (14802)
+💼 [Other](#-other) (14869)
 
 ---
 
@@ -67,7 +67,7 @@
 
 [Back to top](#-work-in-germany--automated-job-board)
 
-> Showing 50 of 1951 jobs. See all in [`data/jobs.json`](data/jobs.json).
+> Showing 50 of 1954 jobs. See all in [`data/jobs.json`](data/jobs.json).
 
 | Company | Role | Location | Posted | Apply |
 |---------|------|----------|--------|-------|
@@ -99,6 +99,9 @@
 | AI Futures | Audio ML Engineer | Munich, Bavaria | Today | [Apply](https://www.linkedin.com/jobs/view/4490415568) |
 | Greenpeace | Analytics Engineer (m/w/d) | Hamburg, HH | Today | [Apply](https://de.indeed.com/viewjob?jk=ef8fa2dcfbb1a8ec) |
 | DocuSketch | Principal AI/ML Engineer | Germany | Today | [Apply](https://www.linkedin.com/jobs/view/4491189153) |
+| Lufinity AI | Junior Applied AI Engineer | Munich, Bavaria | Today | [Apply](https://www.linkedin.com/jobs/view/4491578463) |
+| ABOUT YOU SE & Co. KG | Data Analyst - Marketing Data Analytics (all genders) | Hamburg, HH | Today | [Apply](https://de.indeed.com/viewjob?jk=91f4da434cec5b6d) |
+| Universität Siegen | Wissenschaftliche/r Mitarbeiter/in - Computer Vision | Siegen, NW | Today | [Apply](https://de.indeed.com/viewjob?jk=5db816e5d404819c) |
 | IT Baden-Württemberg (BITBW) | KI Data Scientist (w/m/d), 16231-KI Hub | Stuttgart, BW | 1 day ago | [Apply](https://de.indeed.com/viewjob?jk=8666b5a72c066ab2) |
 | Vattenfall | Senior Data Scientist & ML Analyst (m/w/d) | Hamburg, HH | 1 day ago | [Apply](https://de.indeed.com/viewjob?jk=3e209639cf940bec) |
 | Jobgether | Senior ML Engineer | Germany | 1 day ago | [Apply](https://www.linkedin.com/jobs/view/4490274430) |
@@ -118,15 +121,12 @@
 | Vattenfall | Senior Data Scientist & ML Analyst (m/w/d) | Hamburg, Hamburg | 1 day ago | [Apply](https://www.linkedin.com/jobs/view/4489755400) |
 | Findr | Data Scientist - Statistics & AI - Hybrid - Frankfurt - €75,000-90,000 | Frankfurt, Hesse | 1 day ago | [Apply](https://www.linkedin.com/jobs/view/4489794216) |
 | trivago | Data Scientist - Marketing | Düsseldorf, North Rhine-Wes... | 1 day ago | [Apply](https://www.linkedin.com/jobs/view/4489793366) |
-| ControlExpert GmbH | Senior Data Scientist (gn) Focus on AI Engineering | Langenfeld, North Rhine-Wes... | 1 day ago | [Apply](https://www.linkedin.com/jobs/view/4489758928) |
-| DYMATRIX | Senior Data Scientist (all genders) | Hamburg, Hamburg | 1 day ago | [Apply](https://www.linkedin.com/jobs/view/4490643811) |
-| DYMATRIX | Data Scientist (all genders) | Hamburg, Hamburg | 1 day ago | [Apply](https://www.linkedin.com/jobs/view/4490658070) |
 
 ## 📊 Data Engineering
 
 [Back to top](#-work-in-germany--automated-job-board)
 
-> Showing 50 of 878 jobs. See all in [`data/jobs.json`](data/jobs.json).
+> Showing 50 of 879 jobs. See all in [`data/jobs.json`](data/jobs.json).
 
 | Company | Role | Location | Posted | Apply |
 |---------|------|----------|--------|-------|
@@ -137,6 +137,7 @@
 | Hyra | Data Engineer | Hamburg | Today | [Apply](https://www.linkedin.com/jobs/view/4490406939) |
 | INFOMOTION GmbH | Senior Data Engineer (m/w/d) / Schwerpunkt Scala & Spark | Frankfurt, Hesse | Today | [Apply](https://www.linkedin.com/jobs/view/4491576070) |
 | Annapurna | Senior Data Engineer | Greater Munich Metropolitan... | Today | [Apply](https://www.linkedin.com/jobs/view/4480974944) |
+| Beiersdorf | Lead Data Engineer (all genders) | Hamburg, Hamburg | Today | [Apply](https://www.linkedin.com/jobs/view/4490470713) |
 | 🚀 N26 | Site Reliability Engineer - Data Platform | Barcelona, Berlin | 1 day ago | [Apply](https://n26.com/en-eu/careers/positions/8378357?gh_jid=8378357) |
 | Grainset Data | Associate Data Engineer | Hamburg, Hamburg | 1 day ago | [Apply](https://www.linkedin.com/jobs/view/4490279555) |
 | Grainset Data | Junior Data Engineer | Hamburg, Hamburg | 1 day ago | [Apply](https://www.linkedin.com/jobs/view/4490277451) |
@@ -179,13 +180,12 @@
 | SUND GmbH + Co. KG | Data Engineer (m/w/d) – Datenintegration & BI | Hamburg, Hamburg | 4 days ago | [Apply](https://www.linkedin.com/jobs/view/4489878891) |
 | Talon.One | Data Engineer | Berlin, Berlin | 4 days ago | [Apply](https://www.linkedin.com/jobs/view/4490727475) |
 | Visable GmbH | Senior Data Engineer (m/f/d) | Hamburg, HH | 5 days ago | [Apply](https://de.indeed.com/viewjob?jk=20017f034ab7cd3e) |
-| Itransition | BIM Data Engineer (Geodata & Automation) | Germany | 5 days ago | [Apply](https://www.glassdoor.de/job-listing/j?jl=1010324725628) |
 
 ## 🎨 Design & UX
 
 [Back to top](#-work-in-germany--automated-job-board)
 
-> Showing 50 of 745 jobs. See all in [`data/jobs.json`](data/jobs.json).
+> Showing 50 of 748 jobs. See all in [`data/jobs.json`](data/jobs.json).
 
 | Company | Role | Location | Posted | Apply |
 |---------|------|----------|--------|-------|
@@ -202,6 +202,9 @@
 | ASYS Automatisierungssysteme GmbH | Designer (m/w/d) Marketing, Kommunikation & Digital Experience | Dornstadt, BW | Today | [Apply](https://de.indeed.com/viewjob?jk=b96aa190edb7f040) |
 | Ubique Systems | UI/UX Designer | Bonn, North Rhine-Westphalia | Today | [Apply](https://www.linkedin.com/jobs/view/4490456748) |
 | FotoFinder Systems GmbH | (Senior) UX UI Designer (m/f/d) | Bad Birnbach, Bavaria | Today | [Apply](https://www.linkedin.com/jobs/view/4491571796) |
+| Zendesk | Lead Product Designer | Berlin, Berlin | Today | [Apply](https://www.linkedin.com/jobs/view/4490480516) |
+| Siemens Healthineers | UI Designer for Healthcare/MedTech Products (f/m/d) | Forchheim, Bavaria | Today | [Apply](https://www.linkedin.com/jobs/view/4490471411) |
+| Wooga | Senior UI/UX Designer - New Games (12-month contract) | Berlin | Today | [Apply](https://www.linkedin.com/jobs/view/4491702057) |
 | Workmatrix GmbH | UI/UX-Designer (m/w/d) | Ummendorf, BW | 1 day ago | [Apply](https://de.indeed.com/viewjob?jk=b99f47fea180e4cc) |
 | CHEFS CULINAR | UX/UI Designer für Websites und digitale Services (m/w/d) | Weeze, North Rhine-Westphalia | 1 day ago | [Apply](https://www.linkedin.com/jobs/view/4490610974) |
 | 🌍 Databricks | Sr. Product Designer  | Amsterdam, Netherlands; Ber... | 1 day ago | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8923866002) |
@@ -236,15 +239,12 @@
 | CHEFS CULINAR | UX/UI Designer für Websites und digitale Services (m/w/d) | Weeze, North Rhine-Westphalia | 5 days ago | [Apply](https://www.linkedin.com/jobs/view/4489068023) |
 | TaskVerse | UI/UX Designer | Germany | 5 days ago | [Apply](https://www.linkedin.com/jobs/view/4490304743) |
 | hiveQ | Senior UI/UX Designer | Karlsruhe, Baden-Württemberg | 5 days ago | [Apply](https://www.linkedin.com/jobs/view/4481537924) |
-| SE3 | Senior Designer | Munich, BY | 5 days ago | [Apply](https://de.indeed.com/viewjob?jk=fc188c113fe28066) |
-| Kaufland e-commerce | Senior Product Designer | Berlin, Berlin | 5 days ago | [Apply](https://www.linkedin.com/jobs/view/4489281165) |
-| Kaufland e-commerce Services Gmb... | Senior Product Designer (all genders) | Home Office | 5 days ago | [Apply](https://de.indeed.com/viewjob?jk=fc035d4a16a9eae5) |
 
 ## 🎓 Werkstudent & Internship
 
 [Back to top](#-work-in-germany--automated-job-board)
 
-> Showing 50 of 9183 jobs. See all in [`data/jobs.json`](data/jobs.json).
+> Showing 50 of 9232 jobs. See all in [`data/jobs.json`](data/jobs.json).
 
 | Company | Role | Location | Posted | Apply |
 |---------|------|----------|--------|-------|
@@ -303,7 +303,7 @@
 
 [Back to top](#-work-in-germany--automated-job-board)
 
-> Showing 50 of 14802 jobs. See all in [`data/jobs.json`](data/jobs.json).
+> Showing 50 of 14869 jobs. See all in [`data/jobs.json`](data/jobs.json).
 
 | Company | Role | Location | Posted | Apply |
 |---------|------|----------|--------|-------|
@@ -360,4 +360,4 @@
 
 ---
 
-*Last updated: 2026-11-17 16:44 UTC • Total: 53749 jobs across 16325 companies*
+*Last updated: 2026-11-17 18:03 UTC • Total: 53901 jobs across 16359 companies*
