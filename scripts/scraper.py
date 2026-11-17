@@ -1023,6 +1023,11 @@ def main():
     max_age = config.get("settings", {}).get("max_age_days", 60)
     merged = merge(existing, all_jobs, max_age)
 
+    # Re-classify ALL jobs (old + new) with the latest keywords from config.yml
+    for j in merged:
+        j["category"] = classify_category(j.get("title", ""), config)
+    log.info("Re-classified all jobs with current category keywords")
+
     stats = compute_stats(merged)
     log.info(f"Final: {stats['total_jobs']} jobs | {stats['companies_tracked']} companies | {stats['visa_friendly']} visa-friendly | {stats['english_friendly']} english-ok")
 
