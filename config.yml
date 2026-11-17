@@ -84,7 +84,7 @@ location_normalize:
 # --------------------------------------------------------------------------
 categories:
   Software Tester:
-    icon: "💻"
+    icon: "🛠️"
     keywords :
       - QA Engineer
       - Software Test Engineer
