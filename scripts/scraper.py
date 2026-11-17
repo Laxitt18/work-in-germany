@@ -430,7 +430,7 @@ def generate_readme(jobs: list[dict], stats: dict, config: dict):
         "Software Engineering",
         "Data Science & ML",
         "Data Engineering",
-        "Design & UX",,
+        "Design & UX",
         "Werkstudent & Internship",
         "Other",
     ]
