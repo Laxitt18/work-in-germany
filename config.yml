@@ -85,9 +85,35 @@ location_normalize:
 categories:
   Software Tester:
     icon: "🛠️"
-    keywords :
+    keywords:
       - QA Engineer
+      - Test Engineer (m/w/d)
+      - Quality Assurance Engineer
+      - Softwaretester (m/w/d)
       - Software Test Engineer
+      - software tester
+      - softwaretester
+      - tester
+      - qa engineer
+      - qa automation
+      - qa analyst
+      - qa lead
+      - qa manager
+      - qa specialist
+      - qa tester
+      - qa test
+      - quality assurance
+      - test engineer
+      - test automation
+      - testautomatisierung
+      - testingenieur
+      - test manager
+      - testmanager
+      - test analyst
+      - test lead
+      - softwaretest
+      - sdet
+      - software development engineer in test
       - Test Automation Engineer
       - QA Automation Engineer
       - SDET
@@ -137,9 +163,6 @@ categories:
       - ruby developer
       - kotlin developer
       - swift developer
-      - QA engineer
-      - test engineer
-      - testingenieur
       - automation engineer
   Data Science & ML:
     icon: "🤖"
