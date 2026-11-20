@@ -86,41 +86,21 @@ categories:
   Software Tester:
     icon: "🛠️"
     keywords:
-      - QA Engineer
-      - Test Engineer (m/w/d)
-      - Quality Assurance Engineer
-      - Softwaretester (m/w/d)
-      - Software Test Engineer
-      - software tester
-      - softwaretester
-      - tester
-      - qa engineer
-      - qa automation
-      - qa analyst
-      - qa lead
-      - qa manager
-      - qa specialist
+      - Software Quality Assurance
+      - Software tester
+      - Software Test web
+      - software tester application
+      - softwaretester Android App
+      - softwaretester tester Mobile App
+      - Automation Software Tester
       - qa tester
-      - qa test
-      - quality assurance
-      - test engineer
-      - test automation
+      - Test automation
       - testautomatisierung
-      - testingenieur
-      - test manager
-      - testmanager
-      - test analyst
-      - test lead
       - softwaretest
-      - sdet
-      - software development engineer in test
-      - Test Automation Engineer
-      - QA Automation Engineer
-      - SDET
-      - Mobile QA Engineer
-      - Mobile Test Engineer
-      - Web QA Engineer
-      - AI Test Engineer
+      - Mobile QA
+      - Mobile Test
+      - Web QA
+      - AI Test
       - AI Automation Tester
   Software Engineering:
     icon: "💻"
@@ -233,19 +213,10 @@ categories:
     keywords:
       - werkstudent
       - working student
-      - praktikum
-      - praktikant
-      - intern
-      - internship
       - studentische hilfskraft
-      - studentenjob
-      - pflichtpraktikum
-      - praxissemester
       - abschlussarbeit
       - thesis
       - bachelor thesis
-      - master thesis
-      - diplomarbeit
 
   Hardware Engineering:
     icon: "🔧"
@@ -820,6 +791,9 @@ lever:
 arbeitsagentur:
   searches:
     # === SOFTWARE & TECH (English + German titles) ===
+    - { was: "Software Tester", wo: "", size: 100, days: 14 }
+    - { was: "Software Quality Assurance", wo: "", size: 100, days: 14 }
+    - { was: " Automation Software Tester", wo: "", size: 100, days: 14 }
     - { was: "Software Engineer", wo: "", size: 100, days: 14 }
     - { was: "Softwareentwickler", wo: "", size: 100, days: 14 }
     - { was: "Webentwickler", wo: "", size: 100, days: 14 }
@@ -1142,6 +1116,10 @@ workday:
 jobspy:
   searches:
     # === TECH ===
+    - { term: "software Tester", location: "Germany", sites: [linkedin, indeed, glassdoor], results_wanted: 80 }
+    - { term: "Software Quality Assurance", location: "Germany", sites: [linkedin, indeed, glassdoor], results_wanted: 50 }
+    - { term: " Automation Software Tester", location: "Germany", sites: [linkedin, indeed, glassdoor], results_wanted: 50 }
+    - { term: "software engineer", location: "Germany", sites: [linkedin, indeed, glassdoor], results_wanted: 80 }
     - { term: "software engineer", location: "Germany", sites: [linkedin, indeed, glassdoor], results_wanted: 80 }
     - { term: "data scientist", location: "Germany", sites: [linkedin, indeed, glassdoor], results_wanted: 60 }
     - { term: "machine learning engineer", location: "Germany", sites: [linkedin, indeed, glassdoor], results_wanted: 50 }
